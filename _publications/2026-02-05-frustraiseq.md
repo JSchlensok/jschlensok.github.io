@@ -2,7 +2,6 @@
 title: "FrustrAI-Seq: Scaling Local Energetic Frustration to the Protein Sequence Space"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-02-05-frustraiseq
 excerpt: ""
 date: 2026-02-05
 venue: ""
