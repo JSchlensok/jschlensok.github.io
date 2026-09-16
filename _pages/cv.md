@@ -33,12 +33,12 @@ Work experience
   * TU Munich
   * Data Analysis and Visualization in R/Python
 
-* 04/2022 -- 09/2023: Graduate Researcher
+* 04/2022 -- 09/2023: Undergraduate Researcher
   * TU Munich, Rostlab
   * Machine learning for proteins: disorder, stability, and variant effect prediction
   * First author of intrinsic disorder predictor UdonPred - top 10 in CAID4 Disorder-NOX benchmark
 
-* 10/2023 -- 07/2026: Undergraduate Researcher
+* 10/2023 -- 07/2026: Graduate Researcher
   * TU Munich, Rostlab
   * Machine learning for proteins, mainly variant effect prediction
   * First author of variant effect predictor VespaG in collaboration with Laine lab (Sorbonne CQSB) - #2 on ProteinGym at time of publication
@@ -82,13 +82,12 @@ Skills
   * Huggingface
   * R
   * Jupyter
-* Biology and biochemistry
+* Biology
   * Molecular biology
-  * Genomics
+  * Proteomics
   * Evolutionary biology
   * Genomics
   * Neurobiology
-  * Proteomics
 
 Languages
 =========
