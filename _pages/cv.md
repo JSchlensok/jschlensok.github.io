@@ -24,6 +24,7 @@ Work experience
 * 07/2026 -- 06/2027: Scientific Employee
   * TU Munich, Rostlab
   * ProtAL: Active learning for protein engineering (Software Campus project)
+  * Collaboration with Jiménez-Soto Lab (Walther-Straub Institute of Pharmacology and Toxicology, LMU)
 
 * 09/2025 -- 05/2026: Master's Thesis Student
   * Helmholtz Munich, Heinzinger lab
@@ -41,7 +42,8 @@ Work experience
 * 10/2023 -- 07/2026: Graduate Researcher
   * TU Munich, Rostlab
   * Machine learning for proteins, mainly variant effect prediction
-  * First author of variant effect predictor VespaG in collaboration with Laine lab (Sorbonne CQSB) - #2 on ProteinGym at time of publication
+  * First author of variant effect predictor VespaG - #2 on ProteinGym at time of publication
+  * Collaboration with Laine lab (Sorbonne CQSB)
 
 * 06/2023 -- ongoing: Bar Manager
   * Eventprofil GmbH, Pfinztal
@@ -118,3 +120,4 @@ Volunteering
 * Orientation for first-year bioinformatics students, 2020-2023
 * LMU Munich student mediator, 2021-2026
 * HAICON26 volunteer, 2026
+* organized TUM Open Day booth, 2026
